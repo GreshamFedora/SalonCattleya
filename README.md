@@ -3,7 +3,8 @@
 Spanish-language site for Salón Cattleya in the Dominican Republic meant to serve as the primary website for said business. 
 
 Link to project: https://saloncattleya.netlify.app/
-![image](https://user-images.githubusercontent.com/102261261/175702577-3d031aa3-f031-40f3-83bd-fbd9381dab0e.png)
+![readme photo](https://user-images.githubusercontent.com/102261261/175811476-76f15ebe-388f-4f00-b163-51eaddb244b1.jpg)
+
 
 
 How It's Made:
