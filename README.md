@@ -20,4 +20,4 @@ Streamlined the design of the website after taking primary device and importance
 (optional)
 
 Lessons Learned:
-The importance of communicating with clients to adapt their vision in more realistic ways due to practical concerns.
+The importance of communicating with clients to adapt their vision in more realistic ways due to practical concerns. (client initially wanted a lot of content and features implemented on the landing page, but those concerns had to be tempered)
