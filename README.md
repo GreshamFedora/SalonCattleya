@@ -16,7 +16,7 @@ Built out website according to the client's needs and also based on my own sugge
 
 Optimizations
 
-Took low bandwidth into consideration in design of website and JavaScript features desired due to speed of users' connections and limitations due to physical geography. (presuming a potential influence in addition to low connection speeds).
+Streamlined the design of the website after taking primary device and importance of users' connection speeds into consideration in design of website alongside considerations such as content and JavaScript features desired. (primarily due to speed of users' connections and limitations due to physical geography imposing spotty or poor coverage)
 (optional)
 
 Lessons Learned:
