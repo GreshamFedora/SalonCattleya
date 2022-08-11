@@ -18,6 +18,7 @@ Optimizations
 
 Streamlined the design of the website after taking primary device and importance of users' connection speeds into consideration in design of website alongside considerations such as content and JavaScript features desired. (primarily due to speed of users' connections and limitations due to physical geography imposing spotty or poor coverage)
 
+Adding in google map to ease client's locating the salon.
 
 Lessons Learned:
 The importance of communicating with clients to adapt their vision in more realistic ways due to practical concerns. (client initially wanted a lot of content and features implemented on the landing page, but those concerns had to be tempered)
